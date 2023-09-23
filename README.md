@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm <a href="https://viniciusNC.github.io/profile/">Vinícius Neves</a></h1>
+<h1 align="center">Hey, I'm Vinícius Neves</a></h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/vinicius-neves-cunha/">LinkedIN</a> • 
   <a href="https://www.instagram.com/nevesidio/">Instagram</a> •
